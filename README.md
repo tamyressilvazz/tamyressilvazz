@@ -12,6 +12,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "https://open.spotify.com/user/12161892485?si=ce51d42e331f48a8"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/tamyressilvazz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/tamyressilvazz/tamyressilvazz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
