@@ -54,6 +54,8 @@
 <img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/d815719e-04d8-4546-bd34-3845c56c0fea">
 
 <img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/158e5e7e-b62b-4822-821d-e6ba648a220d">
+
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/a6f9a1a9-2baa-471d-baab-ef0c8421d949">
 <br>
 <br>
 </div>
