@@ -21,6 +21,24 @@
 ### Main skills:
 <div align="left"> 
   
-<img align="left" height="80" width="84" src="">
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/dd716bbf-ffeb-4a06-964a-064049124f70">
+
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/114ef4d6-249d-4df6-b9a4-eed411e56fe8">
+
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/bcd0c2f8-c890-4a42-84df-56151acdb578">
+
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/75d86214-cab1-4f8c-a0f2-87301336affc">
+
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/be20dfcf-fcf3-437e-ae1b-5c4a381db0d8">
+
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/42a5172a-244f-4223-9bb6-a36ef46d0d23">
+
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/da319d02-9913-42e6-b927-6a6e6bda0ec9">
+
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/fd0b5107-1dd0-4fae-91cb-d565fd96e3b4">
+
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/d0464445-3713-4a88-af14-0f8dee40dadc">
+
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/0fff7422-5166-4706-a8bb-db1f315597d0">
 
 </div>
