@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=35&duration=4846&pause=996&color=F7B2DA&center=true&random=false&width=435&lines=Hello+everyone;I'm+a+software+developer)](https://git.io/typing-svg)
   <br>
-	<br>
+  <br>
  
 <div align="center">
   
@@ -41,4 +41,55 @@
 
 <img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/0fff7422-5166-4706-a8bb-db1f315597d0">
 
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/43c6dffe-b8aa-4632-be69-3f4502bfa3ee">
+
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/53e8f314-967d-447d-8421-cab649f16238">
+
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/b8ad767a-8895-463b-9f3a-a738a0deb249">
+
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/01c03186-1c39-4b71-97cb-a27e74d12ee3">
+<br>
+<br>
+</div>
+
+## Database:
+<div align="left"> 
+	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/78185d7e-e56b-4382-96c3-2b13c81f444b">
+	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/d19215b3-855a-4a28-a9f6-729e8833a084">
+	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/ba8bae5c-4d25-4ed4-a5e7-d85fb3803964">
+	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/1b1e99b0-0a8b-469e-a6bd-e5924b08491a">
+	<br>
+	<br>
+</div>
+
+## Source code editor:
+<div align="left"> 
+	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/a3d643ec-0145-471a-845f-514870c6018f">
+	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/2ae25cd3-1c14-43a1-97c9-f35977f34205">
+	<br>
+	<br>
+</div>
+
+## Operational system:
+<div align="left"> 
+	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/6277cf93-bf60-430d-925b-0af1b2203c47">
+	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/eef6341e-2fe1-49b7-a1cf-9069babecb07">
+	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/ee23f0c0-bb35-4772-bea0-1d831b3ec10b">
+	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/9d8639d1-9a5b-47e7-a5f1-f17357133ae3">
+	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/c68d1959-c7eb-457f-8300-08790bc93742">
+	<br>
+	<br>
+</div>
+<br>
+<br>
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/77fb58da-a3fc-44a0-b9da-10db9203e156">
+
+## Language skill:
+<div align="left"> 
+	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/fe7f3f82-c367-4fcb-ad88-3668af9c6643">
+	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/57ec4a9f-94f8-423a-bb98-35f8f7765082">
+	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/ba830408-b8c6-4afb-b0e1-d7845a42346a">
+	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/1f7a33b1-9033-4ce1-99fb-5841ee3477bb">
+	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/b42f80da-99d5-4624-b367-fa8f229cc0d0">
+ 	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/52ae1010-0e18-4c40-9982-006b6f342b9b">
 </div>
