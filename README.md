@@ -48,6 +48,12 @@
 <img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/b8ad767a-8895-463b-9f3a-a738a0deb249">
 
 <img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/01c03186-1c39-4b71-97cb-a27e74d12ee3">
+
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/3e92b983-ddbb-4288-9287-cf574fc59b0c">
+
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/d815719e-04d8-4546-bd34-3845c56c0fea">
+
+<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/158e5e7e-b62b-4822-821d-e6ba648a220d">
 <br>
 <br>
 </div>
