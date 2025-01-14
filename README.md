@@ -8,6 +8,7 @@
  
 <div align="center">
   🎓 Bachelor in Computer Science | Full-Stack Developer | Aspiring Data Scientist
+	<br>
 Hello! I'm Tamyres, a technology enthusiast with a solid background in Computer Science and two years of practical experience as a Full-Stack Developer. Currently, I'm transitioning to the data field, where i seek to apply my passion for analysis and interpretation of information.
 
 Throughout my professional journey, i have acquired robust skills in web and application development, and i'm always looking for new challenges that allow me to grow and contribute with innovative solutions.
