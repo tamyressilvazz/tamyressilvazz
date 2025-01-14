@@ -8,15 +8,15 @@
  
 <div align="center">
   🎓 Bachelor in Computer Science | Full-Stack Developer | Aspiring Data Scientist
-Hello! I'm Tamyres, a technology enthusiast with a solid background in Computer Science and two years of practical experience as a Full-Stack Developer. Currently, I am transitioning to the data field, where I seek to apply my passion for analysis and interpretation of information.
+Hello! I'm Tamyres, a technology enthusiast with a solid background in Computer Science and two years of practical experience as a Full-Stack Developer. Currently, I'm transitioning to the data field, where i seek to apply my passion for analysis and interpretation of information.
 
-Throughout my professional journey, I have acquired robust skills in web and application development, and I am always looking for new challenges that allow me to grow and contribute with innovative solutions.
+Throughout my professional journey, i have acquired robust skills in web and application development, and i'm always looking for new challenges that allow me to grow and contribute with innovative solutions.
 
-📚 Book Lover When I'm not immersed in lines of code or exploring data, you'll find me with a book in my hands. I love to read and share my impressions through detailed reviews that I publish on my social networks, such as Skoob and Estante.
+📚 Book Lover - When i'm not immersed in lines of code or exploring data, you'll find me with a book in my hands. I love to read and share my impressions through detailed reviews that i publish on my social medias, such as Skoob and Estante.
 
-🌍 Curious About Languages and Cultures In addition to technology and books, I have a great curiosity for learning new languages and discovering different cultures. I believe that this skill not only enriches my worldview but also makes me more adaptable and ready to work in diverse and international environments.
+🌍 Curious About Languages and Cultures - In addition to technology and books, i have a great curiosity for learning new languages and discovering different cultures. I believe that this skill not only enriches my worldview but also makes me more adaptable and ready to work in diverse and international environments.
 
-💪 Maintaining Health with Exercise Maintaining physical and mental health is a priority for me. I regularly practice exercises that help me maintain well-being and the energy needed to face daily challenges.
+💪 Maintaining Health - With exercise Maintaining physical and mental health is a priority for me. I regularly practice exercises that help me maintain well-being and the energy needed to face daily challenges.
 
 I'm always open to new connections and opportunities. If you want to discuss technology trends, book recommendations, or health practices, it will be a pleasure to talk with you.
 </div>
