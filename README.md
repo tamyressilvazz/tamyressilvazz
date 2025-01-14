@@ -6,11 +6,7 @@
   <br>
   <br>
  
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tamyressilvazz&theme=dracula&border_radius=5.4&card_width=496&border=EBA3DA)](https://git.io/streak-stats)
- 
-</div>
+
 
 <div align="center" >
   
