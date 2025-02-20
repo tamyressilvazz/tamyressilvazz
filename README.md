@@ -68,6 +68,10 @@ I'm always open to new connections and opportunities. If you want to discuss tec
 <img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/a6f9a1a9-2baa-471d-baab-ef0c8421d949">
 
 <img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/69dd8f76-7be1-4488-8a53-03e8abaef75b">
+
+<img align="left" height="30" width="30" src="https://github.com/user-attachments/assets/0f0e1d47-5aa9-43f8-b6df-343fef2302c0">
+
+<img align="left" height="50" width="50" src="https://github.com/user-attachments/assets/91ffc4e6-c44c-45d5-80a2-e08535658c54">
 <br>
 <br>
 </div>
