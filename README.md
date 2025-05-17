@@ -1,25 +1,17 @@
-<img width=100%  bottom=50px src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/6db8d54f-5f8b-40fa-b330-524b50e1c131">
-<br>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=35&duration=4846&pause=996&color=F7B2DA&center=true&random=false&width=435&lines=Hello+everyone;I'm+a+software+developer)](https://git.io/typing-svg)
-  <br>
-  <br>
  
 <div align="center">
   🎓 Bachelor in Computer Science | Full-Stack Developer | Aspiring Data Scientist
-	<br>
-Hello! I'm Tamyres, a technology enthusiast with a solid background in Computer Science and two years of practical experience as a Full-Stack Developer. Currently, I'm transitioning to the data field, where i seek to apply my passion for analysis and interpretation of information.
+	<br><br>
+	
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tamyressilvazz&theme=catppuccin-latte&hide_border=true" alt="GitHub Streak" /></a><br>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamyressilvazz&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-Throughout my professional journey, i have acquired robust skills in web and application development, and i'm always looking for new challenges that allow me to grow and contribute with innovative solutions.
+  ## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Tamyressilvazz&theme=alduin&no-frame=false&no-bg=false&margin-w=4)
 
-📚 Book Lover - When i'm not immersed in lines of code or exploring data, you'll find me with a book in my hands. I love to read and share my impressions through detailed reviews that i publish on my social medias, such as Skoob and Estante.
-
-🌍 Curious About Languages and Cultures - In addition to technology and books, i have a great curiosity for learning new languages and discovering different cultures. I believe that this skill not only enriches my worldview but also makes me more adaptable and ready to work in diverse and international environments.
-
-💪 Maintaining Health - With exercise Maintaining physical and mental health is a priority for me. I regularly practice exercises that help me maintain well-being and the energy needed to face daily challenges.
-
-I'm always open to new connections and opportunities. If you want to discuss technology trends, book recommendations, or health practices, it will be a pleasure to talk with you.
+---
+[![](https://visitcount.itsvg.in/api?id=Tamyressilvazz&icon=0&color=0)](https://visitcount.itsvg.in)
+	
 </div>
 
 <div align="center" >
