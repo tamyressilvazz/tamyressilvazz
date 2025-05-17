@@ -3,14 +3,9 @@
   🎓 Bachelor in Computer Science | Full-Stack Developer | Aspiring Data Scientist
 	<br><br>
 	
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tamyressilvazz&theme=catppuccin-latte&hide_border=true" alt="GitHub Streak" /></a><br>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamyressilvazz&theme=solarized-light&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-  ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Tamyressilvazz&theme=alduin&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Tamyressilvazz&icon=0&color=0)](https://visitcount.itsvg.in)
+  ![tamyressilvazz's Stats](https://github-readme-stats.vercel.app/api?username=tamyressilvazz&theme=buefy&show_icons=true&hide_border=true&count_private=true)
+  ![tamyressilvazz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tamyressilvazz&theme=buefy&hide_border=true)
+  ![tamyressilvazz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamyressilvazz&theme=buefy&show_icons=true&hide_border=true&layout=compact)
 	
 </div>
 
