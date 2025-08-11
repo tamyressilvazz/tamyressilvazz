@@ -95,5 +95,5 @@
 </div>
 <br>
 <br>
-<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/77fb58da-a3fc-44a0-b9da-10db9203e156">
+
 
