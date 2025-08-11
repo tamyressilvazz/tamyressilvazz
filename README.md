@@ -97,13 +97,3 @@
 <br>
 <img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/77fb58da-a3fc-44a0-b9da-10db9203e156">
 
-## Language skill:
-<div align="left"> 
-	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/fe7f3f82-c367-4fcb-ad88-3668af9c6643">
-	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/57ec4a9f-94f8-423a-bb98-35f8f7765082">
-	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/ba830408-b8c6-4afb-b0e1-d7845a42346a">
-	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/1f7a33b1-9033-4ce1-99fb-5841ee3477bb">
-	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/b42f80da-99d5-4624-b367-fa8f229cc0d0">
- 	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/52ae1010-0e18-4c40-9982-006b6f342b9b">
-	<img align="left" height="50" width="50" src="https://github.com/tamyressilvazz/tamyressilvazz/assets/74621120/d299612e-dfd7-428f-8bd9-e025a970e82d">
-</div>
