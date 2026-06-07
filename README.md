@@ -79,6 +79,5 @@ Atualmente estou concluindo a pós-graduação em Robótica e Inteligência Arti
 ### Contato
 
 * LinkedIn: linkedin.com/in/tamyressilvazz
-* GitHub: github.com/tamyressilvazz
 
 > Transformando dados, automação e inteligência artificial em soluções escaláveis.
