@@ -67,7 +67,6 @@ Atualmente estou concluindo a pós-graduação em Robótica e Inteligência Arti
 * Docker
 * Linux
 * Git
-* GitHub
 
 ---
 
